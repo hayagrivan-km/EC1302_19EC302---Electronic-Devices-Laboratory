@@ -26,7 +26,8 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 <img width="981" height="1203" alt="image" src="https://github.com/user-attachments/assets/b61d7a3f-d6b1-4874-a287-a79b8ba0a6c6" />
 
 ## 1. Calculate the value of each resistor below based on its color code.
-<img width="944" height="1180" alt="image" src="https://github.com/user-attachments/assets/3db81967-2167-44ba-826b-c4dbbfd069ba" />
+<img width="944" height="1180" alt="image" src="https://github.com/user-attachments/assets/d800f30d-8cc1-4332-bc40-71601dc6556b" />
+
 
 ## Table 2-2
 
