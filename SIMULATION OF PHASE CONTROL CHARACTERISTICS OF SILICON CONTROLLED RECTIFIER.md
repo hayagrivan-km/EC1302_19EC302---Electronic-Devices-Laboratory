@@ -23,13 +23,11 @@ LT-Spice
 
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM/OUTPUT GRAPH:
+<img width="1920" height="1200" alt="Screenshot 2025-11-15 144842" src="https://github.com/user-attachments/assets/81b0c5dd-c691-43e4-aa34-7bdcc55e9533" />
 
 
-
-## OUTPUT GRAPH:
 
 
 ## RESULT:
 Thus the phase control characteristics of SCR using LT-spice is simulated and verified. 
-
