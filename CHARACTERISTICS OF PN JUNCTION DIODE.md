@@ -12,17 +12,26 @@
 
 
 ## THEORY
+![WhatsApp Image 2025-11-27 at 18 11 17_97286157](https://github.com/user-attachments/assets/dd05a7d2-d003-47fe-beba-ddb4a9d48676)
+![WhatsApp Image 2025-11-27 at 18 11 21_90345528](https://github.com/user-attachments/assets/65a0b691-28af-458f-b271-9fa503c0616a)
+
 ## PN JUNCTION DIODE
 A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
 
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
+![WhatsApp Image 2025-11-27 at 18 11 22_7c185e62](https://github.com/user-attachments/assets/5b5106f2-3e58-4d98-bffd-4ba3cebd0912)
 
 ## REVERSE BIAS:
+![WhatsApp Image 2025-11-27 at 18 11 22_9ef4c11d](https://github.com/user-attachments/assets/ad260290-1f8c-4fd9-9014-7915c81042b3)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 18 11 23_5b349238](https://github.com/user-attachments/assets/3b44af9b-fbd9-49b9-9b59-6d0e9b5a3aae)
 
 ## PROCEDURE:  
+![WhatsApp Image 2025-11-27 at 18 12 23_6c4e3dff](https://github.com/user-attachments/assets/df395b32-e75c-4727-94e2-2d35d61fc105)
+![WhatsApp Image 2025-11-27 at 18 11 23_c8e84285](https://github.com/user-attachments/assets/30c360bf-a9fc-47f4-ac4a-b83af5643ab8)
+
 ## FORWARD BIAS 
 1. The connections are made as per the circuit diagram.
 2. The power supply Current Overload is kept at maximum and then switched on.
@@ -48,12 +57,15 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 18 21 20_a43b4e2d](https://github.com/user-attachments/assets/4ea666cb-f68c-43d6-8d56-00af2e531f50)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 18 21 52_57e6eead](https://github.com/user-attachments/assets/335605b3-230f-4f23-8aac-2057af598ace)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 18 17 48_0fe2a3ad](https://github.com/user-attachments/assets/f981aad6-8b5f-4adb-86e4-50254e981233)
 
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
- 2. Reverse resistance   of PN diode   = --------------------
- 3. Cut in Voltage of PN diode         = -------------------
+ 1. Forward resistance of PN diode     = 20 ohms
+ 2. Reverse resistance   of PN diode   = 0.5 x 10^6 ohms
+ 3. Cut in Voltage of PN diode         = 0.55 V
