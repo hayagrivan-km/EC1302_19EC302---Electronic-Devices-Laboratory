@@ -24,14 +24,13 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
+<img width="1009" height="835" alt="image" src="https://github.com/user-attachments/assets/d769dd3e-70bb-4541-94a9-8882f4d7fa4d" />
 
 
 
 ## OUTPUT GRAPH:
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 182516" src="https://github.com/user-attachments/assets/c81f07fe-e77b-494e-ae1e-80dacb9b1451" />
 
 
 ## RESULT:
 Thus the frequency response of common collector configuration circuit using LT-spice is simulated and verified. 
-
-
-
